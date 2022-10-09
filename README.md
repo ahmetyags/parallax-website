@@ -1,6 +1,3 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Project-003 : Parallax Website (HC-03)
 
 ## Description
@@ -81,5 +78,5 @@ Build a Landing that is functionally similar to this: [Parallax Website]( https:
 -  [Images](./img)
 
 
-<center> ⌛ Happy Coding  ✍ </center>
+
 
